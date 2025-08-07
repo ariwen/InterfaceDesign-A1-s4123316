@@ -1,24 +1,26 @@
 body {
     background-color: #BC8F8F;
-    height: 2600px;
+    margin-left: 10%;
+    margin-right: 10%;
 }
 
 .box {
     background-color:#F0EAD2;
-    padding: 80px;
-    padding-top: 40px;
-    width: 1100px;
-    height: 2390px;
-    margin-top: 120px;
-    margin-left: 300px;
-    margin-right: 60px;
+    padding: 8%;
+    padding-top: 4%;
+    width: 90%px;
+    max-width: 1180px;
+    margin: 80px auto;
+    height: auto;
     
 }
+
+
 
 h1 {
     color: #765640;
     text-align: center;
-    font-size: 400%;
+    font-size: 370%;
     margin-bottom: 1px;
 }
 
@@ -29,7 +31,7 @@ h3 {
 }
 
 h4 {
-    font-size: 30px;
+    font-size: 180%;
     color: #7D5A5A;
     padding-left: 20px;
     margin-bottom: 5px;
@@ -37,10 +39,10 @@ h4 {
 
 p {
     color: #8a624a;
-    font-size: 19px;
+    font-size: 100%;
     text-align: justify;
-    padding-left: 20px;
-    padding-right: 20px;
+    padding-left: 4%;
+    padding-right: 4%;
     margin-top: 0px; 
     margin-bottom: 70px;
     line-height: 1.5;
